@@ -545,7 +545,11 @@ input[type=submit]:hover {
     margin: auto;
   }
 }
-
+@media screen and (max-width: 600px){
+    input[type=submit] {{
+        width 40%:
+        }
+    }    
 
 
 
