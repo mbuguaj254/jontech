@@ -507,6 +507,11 @@ input[type=submit] {
   width: 20%;
   align-self: center;
 }
+@media screen and (max-width: 600px){
+    input[type=submit]{
+    width: 40%
+    }
+}
 
 input[type=submit]:hover {
  transform: scale(1.1);
