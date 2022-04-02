@@ -539,6 +539,8 @@ input[type=submit]:hover {
     background-blend-mode: soft-light;
 
 }
+select{
+    color: var(--clr-light);
 
 
 
